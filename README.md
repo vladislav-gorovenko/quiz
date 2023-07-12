@@ -1,6 +1,6 @@
 ### Description
 
-This is my SOLO project for Module 11 Part 4 - Quizzlet: practicing useState, useEffect, conditional rendering, different libraries in React.
+Simple Quiz App.
 
 ### Links
 
